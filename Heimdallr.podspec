@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = 'Heimdallr'
-  spec.version = '3.7.0'
+  spec.version = '3.7.2'
   spec.authors = {
     'trivago' => 'info@trivago.de'
   }
